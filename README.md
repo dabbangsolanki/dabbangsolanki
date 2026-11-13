@@ -26,4 +26,3 @@ I help businesses scale organic traffic and AI search visibility across Google A
 ### 📫 Connect & Collaborate
 - 💼 Available for **Enterprise & Agency Technical SEO, GEO/AEO Audits, and Custom SEO Tooling**
 - 🌐 Explore my repositories below for open-source, browser-based productivity and marketing tools
-- 
